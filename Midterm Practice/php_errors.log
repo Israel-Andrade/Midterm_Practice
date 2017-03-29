@@ -1,0 +1,6 @@
+[28-Mar-2017 23:47:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/Midterm Practice/practice/practice_program1.php on line 17
+[29-Mar-2017 00:28:10 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/ubuntu/workspace/Midterm Practice/practice/practice_program1.php on line 44
+[29-Mar-2017 01:11:24 UTC] PHP Parse error:  syntax error, unexpected '">"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/Midterm Practice/practice/practice_program1.php on line 29
+[29-Mar-2017 01:11:26 UTC] PHP Parse error:  syntax error, unexpected '">"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/Midterm Practice/practice/practice_program1.php on line 29
+[29-Mar-2017 01:41:47 UTC] PHP Parse error:  syntax error, unexpected '$letter_to_display' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/Midterm Practice/practice/practice_program1.php on line 88
+[29-Mar-2017 01:41:48 UTC] PHP Parse error:  syntax error, unexpected '$letter_to_display' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/Midterm Practice/practice/practice_program1.php on line 88

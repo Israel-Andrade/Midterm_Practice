@@ -1,0 +1,12 @@
+table{
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+td
+{
+    font-size: 1.8em;
+    display: table-cell;
+    
+}
